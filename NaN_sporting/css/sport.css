@@ -1,0 +1,71 @@
+/* header */
+
+header{
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 120px;
+}
+
+.rouge{
+    background-color: red;
+    height: 45px;
+    width: 45px;
+    text-align: center;
+    border-radius: 100%;
+    float: left;
+    margin-top: 32px;
+    
+}
+.rouge h1{
+    margin-left: 50px;
+    margin-top: -40px;
+}
+.logo{
+    height: 38px;
+}
+nav{
+    float: right;
+    margin-top: 32px;
+
+}
+
+nav ul li{
+    display: inline-block;
+    list-style-type: none;
+    margin-right: 10px;
+}
+nav ul li a {
+    text-decoration: none;
+    color: black;
+}
+.wrapper{
+    width: 940px;
+    margin: 0 auto;
+    margin: 0 10px;
+    
+}
+
+.img1{
+	background: url(../images/basket3.jpg);
+	height: 30rem;
+	background-size: cover;
+	background-position: center;
+    background-attachment: fixed;
+
+}
+
+
+
+
+span{
+    color: red;
+}
+
+.A img{
+    height: 10rem;
+    width: 16rem;
+}
+
+.A p{
+    text-align: justify;
+}
